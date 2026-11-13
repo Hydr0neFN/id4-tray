@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+# drawn by id4_tray.py on first run
+id4.ico
+# local analysis tools, not part of the app
+dev/xref.py
+dev/strings_buf.py
